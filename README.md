@@ -1,6 +1,6 @@
 # Admin App Assignment
 
-in this assignment you will build an app which be the final app for React course with GSD
+in this assignment you will build an app for admin
 
 ## Details:
 1. this app will have a login page as shown below 
